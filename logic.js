@@ -131,7 +131,7 @@ $("body").terminal(
         <br> 
         <span class="cmd">date</span> => use to know current date-time
         <br>
-        <span class="cmd">src</span> => use to get source code of TikTok (belum dibuat wkw) 
+        <span class="cmd">src</span> => use to download source code of TikTok (direct ke tiktok, belum biat srcnya) 
         <br>
         <span class="cmd">cls</span> => clear or <span style="color:aqua;">(CTRL + C)</span>
         <br>
@@ -287,7 +287,7 @@ $("body").terminal(
 ░░████╔═████║░██║░░░░░██║░░██╗██║╚██╔╝██║
 ░░╚██╔╝░╚██╔╝░███████╗╚█████╔╝██║░╚═╝░██║
 ░░░╚═╝░░░╚═╝░░╚══════╝░╚════╝░╚═╝░░░░░╚═╝
-            Hallo bolo! Au Gos
+                Hallo bolo! 
           Ketik help nek bingung..
 
     `,
