@@ -287,8 +287,8 @@ $("body").terminal(
 ░░████╔═████║░██║░░░░░██║░░██╗██║╚██╔╝██║
 ░░╚██╔╝░╚██╔╝░███████╗╚█████╔╝██║░╚═╝░██║
 ░░░╚═╝░░░╚═╝░░╚══════╝░╚════╝░╚═╝░░░░░╚═╝
-          Hallo bolo! Au Gos
-        Ketik help nek bingung...
+            Hallo bolo! Au Gos
+          Ketik help nek bingung...
 
     `,
     prompt() {
