@@ -288,7 +288,7 @@ $("body").terminal(
 ░░╚██╔╝░╚██╔╝░███████╗╚█████╔╝██║░╚═╝░██║
 ░░░╚═╝░░░╚═╝░░╚══════╝░╚════╝░╚═╝░░░░░╚═╝
             Hallo bolo! Au Gos
-          Ketik help nek bingung...
+          Ketik help nek bingung..
 
     `,
     prompt() {
