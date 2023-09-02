@@ -148,9 +148,7 @@ $("body").terminal(
         <br>
         Status : <span style="color:aqua">Alive</span>
         <br>
-        Job: Rahasia
-        <br>
-        Description : Saya orang jogja, kadang gabut ya buat <span style="color:aqua;">TikTok</span>.
+        Description : Orang jogja, kadang gabut ya buat <span style="color:aqua;">TikTok</span>.
         <br>
         Motto : Meh kepie koe mbien yo mbien, dirimu mung tentang <b><i>dino iki dan besok</i></b> ✌️!
         <br>
