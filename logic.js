@@ -131,7 +131,7 @@ $("body").terminal(
         <br> 
         <span class="cmd">date</span> => use to know current date-time
         <br>
-        <span class="cmd">src</span> => use to download source code of TikTok (direct ke tiktok, belum buat srcnya) 
+        <span class="cmd">src</span> => use to download source code of TikTok
         <br>
         <span class="cmd">cls</span> => clear or <span style="color:aqua;">(CTRL + C)</span>
         <br>
@@ -267,7 +267,7 @@ $("body").terminal(
       this.echo(pwd);
     },
     src: function() {
-      const url = `https://www.tiktok.com/@emohmendem`;
+      const url = `https://github.com/gendonholaholo`;
       go_url(url);
     },
     game: function() {
