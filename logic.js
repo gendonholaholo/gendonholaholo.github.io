@@ -150,7 +150,7 @@ $("body").terminal(
         <br>
         Description : Orang jogja, kadang gabut ya buat <span style="color:aqua;">TikTok</span>.
         <br>
-        Motto : Meh kepie koe mbien yo mbien, dirimu mung tentang <b><i>dino iki dan besok</i></b> ✌️!
+        Motto : Meh kepie mbien yo mbien, dirimu mung tentang <b><i>dino iki dan besok</i></b> ✌️!
         <br>
         Mail :<span style="color:aqua;"> fafaghaws@live.com</span>
         <br>
@@ -285,7 +285,7 @@ $("body").terminal(
 ░░████╔═████║░██║░░░░░██║░░██╗██║╚██╔╝██║
 ░░╚██╔╝░╚██╔╝░███████╗╚█████╔╝██║░╚═╝░██║
 ░░░╚═╝░░░╚═╝░░╚══════╝░╚════╝░╚═╝░░░░░╚═╝ 
-          Ketik help nek bingung..
+          Ketik "help" nek bingung..
 
     `,
     prompt() {
